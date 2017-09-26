@@ -1,0 +1,14 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Typescript starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduards Vagals",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.31"
+  }
+}
